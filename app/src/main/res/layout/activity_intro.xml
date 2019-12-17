@@ -50,19 +50,19 @@
         </ImageView>
 
         <TextView
-            android:layout_width="70dp"
-            android:layout_height="50dp"
+            android:layout_width="90dp"
+            android:layout_height="60dp"
             android:layout_alignParentRight="true"
-            android:layout_marginTop="40dp"
+            android:layout_marginTop="20dp"
             android:text="LION?"
             android:rotation="20"
             android:textSize="18sp"
             android:textStyle="bold"
             android:textColor="#8B00FF"
-            android:layout_marginRight="67dp"/>
+            android:layout_marginRight="80dp"/>
         <TextView
-            android:layout_width="110dp"
-            android:layout_height="50dp"
+            android:layout_width="130dp"
+            android:layout_height="60dp"
             android:text="MONKEY?"
             android:textSize="18sp"
             android:rotation="-20"
@@ -70,7 +70,7 @@
             android:textColor="#8B00FF"
             android:layout_alignParentRight="true"
             android:layout_marginTop="110dp"
-            android:layout_marginRight="75dp"/>
+            android:layout_marginRight="45dp"/>
 
         <TextView
             android:layout_width="70dp"
@@ -80,7 +80,7 @@
             android:textStyle="bold"
             android:textColor="#8B00FF"
             android:layout_alignParentRight="true"
-            android:layout_marginTop="180dp"
+            android:layout_marginTop="190dp"
             android:layout_marginRight="67dp"/>
 
 
